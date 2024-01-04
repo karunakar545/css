@@ -1,0 +1,8 @@
+body{background-color:#E5E5E5;}
+table{width:80%;
+      
+       border-collapse:collapse;
+margin:20px;}
+td{border:1px solid;
+   padding:3px;
+text-align:left;}
